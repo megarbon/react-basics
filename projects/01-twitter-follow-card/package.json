@@ -1,12 +1,11 @@
 {
-  "name": "react-basics",
+  "name": "01-twitter-follow-card",
   "version": "1.0.0",
-  "description": "basic react projects to learn",
+  "description": "twitter card react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "melaku",
   "license": "ISC"
 }
